@@ -44,7 +44,7 @@ npm run preview
 - Demo mode requires no password. The Login page explicitly describes simulated authentication.
 - Responsive mobile navigation and dashboard sidebar.
 - Empty states, status messages, accessible labels, keyboard Escape to close dialogs, and a print inventory action.
-
+## demo
 ## Demonstration flow
 1. Open `/` and select **Try Demo**.
 2. On the dashboard, choose **Add product** or open Products.
