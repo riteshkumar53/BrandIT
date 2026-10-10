@@ -5,4 +5,5 @@ import App from './App';
 import './styles.css';
 import { initialise } from './utils/storage';
 initialise();
+//applied css
 createRoot(document.getElementById('root')).render(<React.StrictMode><BrowserRouter><App /></BrowserRouter></React.StrictMode>);
