@@ -2,6 +2,8 @@
 
 A responsive full-stack-style frontend prototype for BRANDIT 3.0. Shopkeepers manage products and stock; customers discover sample neighbourhood shops, browse catalogues, and submit product enquiries. All demo data persists in browser LocalStorage—there is no backend, paid API, or real messaging service.
 
+## WEBSITE: https://dukaangrowth.vercel.app/
+
 ## Requirements
 - Node.js 18+ (Node 20+ recommended)
 - npm
