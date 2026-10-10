@@ -18,7 +18,7 @@ Open the local URL Vite prints (usually `http://localhost:5173`). For a producti
 npm run build
 npm run preview
 ```
-## main input
+
 ## Main routes
 - `/` — landing page
 - `/login` — simulated shopkeeper demo access
